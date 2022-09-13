@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Analysis and Cloud Computing.
 - 🌱 I’m currently learning all aspect of Data. 
 - 💞️ I’m looking to collaborate on exicting and challenges relating to the Data field.
+- ✨ Making baby step everyday
 
 <!---
 DODism/DODism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
